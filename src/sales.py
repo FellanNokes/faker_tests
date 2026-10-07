@@ -51,7 +51,7 @@ def generate_day(fake: Faker, products: pd.DataFrame, day: date, start_number: i
 
     rows = []
     for i, sold_at in enumerate(times):
-        receipt_id = f"R{start_number + i:07d}"
+        receipt_id = f"R{sold_at:%Y%m%d%H%M%S}{fake.random_int(100, 999)}"
         rows.extend(generate_receipt(fake, products, receipt_id, sold_at))
     return rows
 

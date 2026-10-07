@@ -11,9 +11,8 @@ PAYMENT_VARIANTS = {
 
 
 def _pick_rows(df: pd.DataFrame, share: float, rng: random.Random) -> list:
-    """Pick a random share of the row indexes."""
-    n = int(len(df) * share)
-    return rng.sample(list(df.index), n)
+    """Pick each row with probability `share`. Works for any size of DataFrame."""
+    return [i for i in df.index if rng.random() < share]
 
 
 def mess_up_dates(df: pd.DataFrame, rng: random.Random, share: float = 0.03) -> pd.DataFrame:
