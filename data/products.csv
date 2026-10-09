@@ -1,16 +1,16 @@
 product_id,product_name,category,brand,age_group,price_sek
-P1001,Brandstation,Byggklossar,LEGO,5-12,649.0
-P1002,Polisstation,Byggklossar,LEGO,5-12,549.0
-P1003,Duplo Tåg,Byggklossar,LEGO,2-5,399.0
-P1004,Gosenalle 30 cm,Gosedjur,Teddykompaniet,0-3,199.0
-P1005,Kanin Mjukis,Gosedjur,Teddykompaniet,0-3,149.0
-P1006,Monopol Sverige,Sällskapsspel,Hasbro,8+,349.0
-P1007,Alfapet,Sällskapsspel,Alga,8+,299.0
-P1008,Uno,Sällskapsspel,Mattel,6+,99.0
-P1009,Radiostyrd bil Turbo,Fordon,Carson,6+,499.0
-P1010,Hot Wheels 5-pack,Fordon,Mattel,3+,129.0
-P1011,Pärlplattor 3000 st,Pyssel,Hama,5+,129.0
-P1012,Modellera 10 färger,Pyssel,Play-Doh,3+,179.0
-P1013,Barbie Dreamhouse,Dockor,Mattel,3+,1999.0
-P1014,Barbie Docka,Dockor,Mattel,3+,249.0
-P1015,Pussel 1000 bitar,Pussel,Ravensburger,12+,189.0
+PRD-10001,Brandstation,Byggklossar,LEGO,5-12,649.0
+PRD-10002,Polisstation,Byggklossar,LEGO,5-12,549.0
+PRD-10003,Duplo Tåg,Byggklossar,LEGO,2-5,399.0
+PRD-10004,Gosenalle 30 cm,Gosedjur,Teddykompaniet,0-3,199.0
+PRD-10005,Kanin Mjukis,Gosedjur,Teddykompaniet,0-3,149.0
+PRD-10006,Monopol Sverige,Sällskapsspel,Hasbro,8+,349.0
+PRD-10007,Alfapet,Sällskapsspel,Alga,8+,299.0
+PRD-10008,Uno,Sällskapsspel,Mattel,6+,99.0
+PRD-10009,Radiostyrd bil Turbo,Fordon,Carson,6+,499.0
+PRD-10010,Hot Wheels 5-pack,Fordon,Mattel,3+,129.0
+PRD-10011,Pärlplattor 3000 st,Pyssel,Hama,5+,129.0
+PRD-10012,Modellera 10 färger,Pyssel,Play-Doh,3+,179.0
+PRD-10013,Barbie Dreamhouse,Dockor,Mattel,3+,1999.0
+PRD-10014,Barbie Docka,Dockor,Mattel,3+,249.0
+PRD-10015,Pussel 1000 bitar,Pussel,Ravensburger,12+,189.0
